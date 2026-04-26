@@ -17,76 +17,30 @@
 
 ---
 
-### ⚡ Who I Am
+# 💫 About Me:
+🔭 I'm EE Student right now <br>👯 I’m looking to collaborate on real world projects <br>🌱 I’m currently learning Devops<br>
 
-```
-> Name     : Bilal Mahfouf
-> Focus    : Backend systems · REST APIs · Full-Stack web
-> Stack    : .NET Core · Node.js · NestJS · React · TypeScript
-> Mindset  : Clean architecture, strong contracts, no shortcuts
-> Status   : Student — actively shipping
-```
 
-I build backend systems with a focus on structure and correctness.
-APIs, data layers, auth flows — I care about how things are designed underneath, not just whether they run.
-Currently deepening my grip on distributed systems, clean architecture patterns, and scalable API design.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bilal-mahfouf/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@billelmh501) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:billelmh501@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=BilalMahfouf&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=BilalMahfouf&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BilalMahfouf&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🛠️ Tech Stack
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BilalMahfouf&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
 
-| Layer | Tools |
-|---|---|
-| **Languages** | C++ · C# · JavaScript · TypeScript |
-| **Backend** | .NET Core · Node.js · NestJS |
-| **Frontend** | React.js |
-| **Databases** | SQL Server · PostgreSQL |
-| **Patterns** | REST · Clean Architecture · Vertical Slice · Repository Pattern |
-| **Tools** | Git · Postman · Visual Studio · VS Code |
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BilalMahfouf&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=BilalMahfouf&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🗂️ Selected Projects
-
-#### 🏦 [BankSystemWebAPI](https://github.com/BilalMahfouf/BankSystemWebAPI)
-A complete banking REST API built with **C# / .NET Core** — covering account management, transactions, and authentication flows. Designed with clean separation of concerns and structured data access layers.
-
-#### 🚗 [DVLDWebAPI](https://github.com/BilalMahfouf/DVLDWebAPI)
-A Driver & Vehicle Licensing Department API built in **C# / .NET Core** — models real-world licensing workflows with layered architecture and a normalized relational data model.
-
-#### 📦 [Inventory Management API](https://github.com/BilalMahfouf/Inventory-Managment-Web-Api)
-REST API for inventory control — product tracking, stock operations, and structured CRUD with **.NET Core**. Focused on data integrity and clean endpoint design.
-
-#### 🧩 [Vertical Slice Template](https://github.com/BilalMahfouf/Vertical-Slice-Template)
-A reusable **.NET Core** project template built around the **Vertical Slice Architecture** pattern — one of the cleanest ways to organize features in large backend codebases.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BilalMahfouf&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalMahfouf&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
-### 🎯 Currently Focused On
-
-- Mastering **distributed systems** concepts and patterns
-- Exploring **NestJS** for scalable Node.js backends
-- Going deeper on **auth & security** — OAuth2, JWT, role-based access
-- Bridging the gap between backend expertise and full-stack delivery
-
----
-
-<div align="center">
-
-*Good systems don't happen by accident — they're designed.*
-
-**Let's connect → [billelmh501@gmail.com](mailto:billelmh501@gmail.com)**
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
